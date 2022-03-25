@@ -11,7 +11,7 @@ Main result of our paper is [ftable.txt](https://github.com/ph4r05/SecurityMargi
 - dir `rtt-configs.tar.gz` contains configuration files for CryptoStreams that were used to generate analyzed dataset
 
 ## Full dataset
-As full testing datasets have more than 20GB it is not possible to host them here. In order to obtain them, please open an issue and we will provide temporary download link.
+As full testing datasets have more than 20GB it is not possible to host it on GitHub. In order to obtain them, please open an issue and we will provide temporary download link.
 
 ## Tools
 Pls note that current version is anonymized for review.
